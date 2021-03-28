@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 I enjoy creating and contributing to open-source packages and writing blog posts about the new technologies I'm exploring. You can always see what I've been up to at [ali26.dev](https://ali26.dev).
 
-- 👨‍💻  &nbsp;I’m currently working at [Disqus](https://disqus.com)
+- 👨‍💻  &nbsp;I’m currently working at [Django](https://www.djangoproject.com/)
 - ⚡️ &nbsp;I'm currently excited about [Gatsby](https://www.gatsbyjs.org/), [TailwindCSS](https://tailwindcss.com/), & [GraphQL](https://graphql.org/)
 - :pencil: &nbsp;I'm currently writing a lot of Javascript and Python
 - 🌱  &nbsp;I’m always learning
