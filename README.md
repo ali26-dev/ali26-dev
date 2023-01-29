@@ -32,13 +32,7 @@ Here are some ideas to get you started:
     <img src="https://user-images.githubusercontent.com/16360374/87503304-b5cf5500-c618-11ea-88ad-eebb40f570b2.png" alt="Twitter" height="45" />
   </a>
 </p>
-
-I enjoy creating and contributing to open-source packages and writing blog posts about the new technologies I'm exploring. You can always see what I've been up to at [ali26.dev](https://ali26.dev).
-
-- 👨‍💻  &nbsp;I’m currently working at [Django](https://www.djangoproject.com/)
-- ⚡️ &nbsp;I'm currently excited about [Gatsby](https://www.gatsbyjs.org/), [TailwindCSS](https://tailwindcss.com/), & [GraphQL](https://graphql.org/)
-- :pencil: &nbsp;I'm currently writing a lot of Javascript and Python
-- 🌱  &nbsp;I’m always learning
+Ali is a skilled data analyst and accomplished coder. With a background in web development, he has a unique skill set that allows him to understand both the technical and business sides of data analysis. He is an expert in Python and uses it to extract meaningful insights from data. In addition to his work as a data analyst, Ali is also a freelancer, offering his services to clients in need of his expertise. Currently residing in Kuala Lumpur, he is open to working remotely, making him a great fit for companies looking to expand their remote workforce. With his versatile skill set, his ability to work remotely, and his passion for data analysis, Ali is a valuable asset to any team. You can always see what he is up to at [ali26.dev](https://ali26.dev).
 
 <br />
 
